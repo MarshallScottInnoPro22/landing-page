@@ -13,11 +13,15 @@ body {
     color: #878fa0;
     display: flex;
     justify-content: space-between;
-    padding: 20px;
+    padding-bottom: 20px;
     margin: 0;
   }
 
-  
+  .logo {
+    font-size: 24px;
+    font-weight: 800;
+    color: #f9faf8;
+  }
 
   .left, .right {
     display: flex;
@@ -27,11 +31,11 @@ body {
   }
 
   .left {
-    margin-left: 300px;
+    margin-left: 250px;
   }
 
   .right {
-    margin-right: 300px;
+    margin-right: 250px;
   }
 
   a {
@@ -59,11 +63,22 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 50px;
+    gap: 100px;
 }
 
 .awesomebox {
-   width: 300px;
+   width: 400px;
+}
+
+.awesomeline1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.awesomeline2 {
+    color: #878fa0;
+    padding-bottom: 5px;
 }
 
 .placeholderbox {
