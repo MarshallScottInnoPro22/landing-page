@@ -1,2 +1,3 @@
 # landing-page
-Excercises in html and css layout
+Creating a home page layout using flexbox. There are multiple layout styles on one page and 
+it teaches one how to use flexbox to position items anywhere on a page.
