@@ -40,7 +40,8 @@ body {
 
   a {
     text-decoration: none;
-    color: #878fa0;
+    color: #e5e7eb;
+    font-size: 18px;
   }
   
   ul {
@@ -77,12 +78,12 @@ body {
 }
 
 .awesomeline2 {
-    color: #878fa0;
+    color: #8d93a1;
     padding-bottom: 5px;
 }
 
 .placeholderbox {
-    background-color: #878fa0;
+    background-color: #767b83;
     padding: 50px;
     width: 400px;
     height: 150px;
