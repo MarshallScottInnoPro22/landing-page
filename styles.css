@@ -37,8 +37,14 @@ body {
   
   .content {
     display: flex;
+    flex-direction: column;
     flex: 1;
   }
+
+.container1 {
+    background-color: #1f2937;
+    color: white;
+}
 
   .footer {
     background-color: #1f2937;
