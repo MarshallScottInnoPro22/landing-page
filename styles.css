@@ -44,7 +44,16 @@ body {
 .container1 {
     background-color: #1f2937;
     color: white;
+    display: flex;
+    align-items: center;
+    gap: 50px;
 }
+
+.awesomebox {
+   width: 300px;
+}
+
+
 
 .container2 {
     background-color: white;
