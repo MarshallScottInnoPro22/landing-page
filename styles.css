@@ -1,0 +1,57 @@
+
+body {
+ background-color: black;
+ /* min-heigh: 100vh makes the footer stick to the bottom of the page */
+ min-height: 100vh;
+ display: flex;
+ flex-direction: column;
+}
+
+.header {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 0;
+  }
+
+  .left, .right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 20px;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 15px;
+  }
+  
+  .content {
+    display: flex;
+    flex: 1;
+  }
+
+  .footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+
+
+
+
+
+
+  
