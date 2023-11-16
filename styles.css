@@ -130,6 +130,10 @@ body {
 
 .container3 {
     background-color: #e5e7eb;
+    padding: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container4 {
