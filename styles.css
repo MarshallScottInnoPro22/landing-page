@@ -130,14 +130,33 @@ body {
 
 .container3 {
     background-color: #e5e7eb;
-    padding: 400px;
+    padding: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.quote {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 36px;
+    font-style:italic;
+    font-weight:100;
+}
+
+.author {
+    font-weight: 800;
+
+}
+
+.container4 {
+    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.container4 {
-    background-color: white;
+.c4container {
+    
 }
 
   .footer {
