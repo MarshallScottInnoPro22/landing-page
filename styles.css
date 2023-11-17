@@ -30,16 +30,16 @@ body {
   }
 
   .left {
-    margin-left: 250px;
+    margin-left: 225px;
   }
 
   .right {
-    margin-right: 250px;
+    margin-right: 225px;
   }
 
   a {
     text-decoration: none;
-    color: #e5e7eb;
+    color: #8d93a1;
     font-size: 18px;
   }
   
@@ -147,7 +147,7 @@ body {
 
 .container3 {
     background-color: #e5e7eb;
-    padding: 200px;
+    padding: 175px;
     display: flex;
     justify-content: center;
     align-items: center;
