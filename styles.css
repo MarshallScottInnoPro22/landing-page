@@ -148,7 +148,7 @@ body {
 .author {
     font-size: 25px;
     font-weight: 800;
-    padding-left: 600px;
+    padding-left: 580px;
 }
 
 .container4 {
@@ -161,10 +161,10 @@ body {
 
 .c4container {
     background-color: #3882f6;
-    width: 800px;
-    height: 50px;
-    padding: 50px;
-    border-radius: 15px;
+    width: 900px;
+    height: 70px;
+    padding: 40px;
+    border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
