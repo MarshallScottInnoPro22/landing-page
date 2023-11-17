@@ -26,7 +26,6 @@ body {
   .left, .right {
     display: flex;
     align-items: center;
-    gap: 16px;
     margin-bottom: 20px;
   }
 
@@ -49,6 +48,11 @@ body {
     display: flex;
     justify-content: space-evenly;
     gap: 15px;
+  }
+
+  .headlinks {
+    display: flex;
+    gap: 20px;
   }
   
   .content {
@@ -92,6 +96,7 @@ body {
   margin: 0.25em;
   border-radius: 0.5em;
   border: none;
+  cursor: pointer;
 }
 
 .placeholderbox {
@@ -205,6 +210,7 @@ body {
     margin: 0.25em;
     border-radius: 0.5em;
     border-color:#f9faf8;
+    cursor: pointer;
 }
 
   .footer {
