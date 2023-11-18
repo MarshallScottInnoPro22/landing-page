@@ -158,7 +158,8 @@ body {
 }
 
 .quote {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 600px;
+    font-family:'Century Gothic', sans-serif;
     font-size: 36px;
     font-style:italic;
     font-weight:100;
@@ -166,9 +167,10 @@ body {
 }
 
 .author {
-    font-size: 25px;
-    font-weight: 800;
-    padding-left: 580px;
+    font-family:'Century Gothic', sans-serif;  
+    font-size: 23px;
+    font-weight: 600;
+    padding-left: 200px;
 }
 
 .container4 {
